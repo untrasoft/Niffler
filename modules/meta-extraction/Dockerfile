@@ -1,4 +1,4 @@
-FROM python:3.10.10-bullseye
+FROM python:3.13.0rc1-bullseye
 
 # install JRE for DCM4CHE
 RUN set -eux; \
