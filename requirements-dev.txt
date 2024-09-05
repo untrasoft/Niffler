@@ -14,3 +14,4 @@ pytest-cov
 tqdm
 pycryptodomex
 SQLAlchemy
+django>=4.2.16 # not directly required, pinned by Snyk to avoid a vulnerability
