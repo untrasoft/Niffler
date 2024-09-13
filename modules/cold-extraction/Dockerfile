@@ -1,4 +1,4 @@
-FROM python:3.10.10-bullseye
+FROM python:3.11.10-bullseye
 
 # download and add DCM4CHE
 ADD https://sourceforge.net/projects/dcm4che/files/dcm4che3/5.22.5/dcm4che-5.22.5-bin.zip/download /opt/dcm4che-5.22.5-bin.zip
